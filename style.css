@@ -5,24 +5,14 @@ body {
 }
 
 button {
-    margin: 0 0 15px 0;
+    margin: 5px 0 15px 0;
     padding: 10px;
     font-size: 1.2em;
 }
 
-/* #result {
-    font-size: 1.5em;
-    width: 250px;
-    height: 30px;
-    text-align: center;
-} */
-
-#input {
-    font-size: 1.2em;
-}
-
+#input,
 #output {
-    width: 200px;
+    width: 300px;
     height: 150px;
     font-size: 1.2em;
     text-align: left;
