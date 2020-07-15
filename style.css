@@ -1,0 +1,41 @@
+body {
+    background-color: #c4c4c4;
+    margin: 25px;
+    color: #292929;
+}
+
+button {
+    margin: 0 0 15px 0;
+    padding: 10px;
+    font-size: 1.2em;
+}
+
+/* #result {
+    font-size: 1.5em;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+} */
+
+#input {
+    font-size: 1.2em;
+}
+
+#output {
+    width: 200px;
+    height: 150px;
+    font-size: 1.2em;
+    text-align: left;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0.4em;
+    padding-right: 0.4em;
+}
+
+#container {
+    text-align: center;
+}
+
+#reverser {
+    display: inline-block;
+}
